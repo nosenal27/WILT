@@ -1,3 +1,5 @@
 The HTML tabindex attribute has three distinct functions relating to an element's keyboard focus.
 
-```<div tabindex="0">I need keyboard focus!</div>```
+```html
+<div tabindex="0">I need keyboard focus!</div>
+```
